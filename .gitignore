@@ -1,3 +1,4 @@
 /.idea/
 /target/
-/spring-mvc.iml/
+*.iml/
+*.iml
